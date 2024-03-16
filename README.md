@@ -1,10 +1,10 @@
-# Workshop-gomoku
-Easy Gomoku
+# Cinco en Raya
+Basado en -Workshop-gomoku
 
-Steam workshop URL: http://steamcommunity.com/sharedfiles/filedetails/?id=845652515
---------------------------
-# License(GPL)
+![](https://github.com/camilo1962/Buscar-Palabras/blob/main/Assets/Images/portada.png)
 
-you can send email to ghostyiigame@outlook.com find more message
 
-you may use these codes or others in personal and commercial projects. Credit(Special thanks to Ghostyii) would be nice but is not mandatory.
+> Unity version - 2022.1.0f1
+
+**jugado en tablero GO contra IA
+
