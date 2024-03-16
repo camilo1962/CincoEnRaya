@@ -1,7 +1,7 @@
 # Cinco en Raya
 Basado en -Workshop-gomoku
 
-![](https://github.com/camilo1962/Buscar-Palabras/blob/main/Assets/Images/portada.png)
+![](https://github.com/camilo1962/CincoEnRaya/blob/main/Assets/Sprite/gomoku_board.jpg)
 
 
 > Unity version - 2022.1.0f1
